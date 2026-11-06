@@ -1,4 +1,4 @@
-# <img src="https://github.com/Au-Ranger/My-Assets/blob/main/frieren-blue-flower-field-mobile-wallpaper-4k.jpg?raw=true" alt="frieren">
+# <img width="2400" height="814" alt="Image" src="https://github.com/user-attachments/assets/5173af24-8dd3-4f32-b0cf-4cb77e6e1354" />
 <div align="center"><b>WELCOME TO MY PAGE!</b> 
   
 You can call me <b>Mugen, Au-Ranger, or Thesaurus</b>, whichever one you like (●'◡'●)  
