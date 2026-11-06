@@ -1,7 +1,7 @@
 # <img src="https://github.com/Au-Ranger/My-Assets/blob/main/frieren-blue-flower-field-mobile-wallpaper-4k.jpg?raw=true" alt="frieren">
-<div align="center">WELCOME TO MY PAGE!  
+<div align="center"><b>WELCOME TO MY PAGE!</b> 
   
-You can call me Mugen, Au-Ranger, or Thesaurus, whichever one you like (●'◡'●)  
+You can call me <b>Mugen, Au-Ranger, or Thesaurus</b>, whichever one you like (●'◡'●)  
 I am an aspiring developer, currently honing my skills in programming
 </div>  
 
