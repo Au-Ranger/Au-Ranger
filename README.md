@@ -35,15 +35,14 @@ I am an aspiring developer, currently honing my skills in programming
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
-![Alight Motion](https://img.shields.io/badge/Alight_Motion-000000?style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMiIgeT0iMTgiIGZpbGw9IiNmZmYiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjE3IiBmb250LXdlaWdodD0iNzAwIj5QczwvdGV4dD48L3N2Zz4%3D)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMSIgeT0iMTgiIGZpbGw9IiNmZmYiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iNzAwIj5BZTwvdGV4dD48L3N2Zz4%3D)
+![Alight Motion](https://img.shields.io/badge/Alight_Motion-1E253A?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BCjxwYXRoIGQ9Ik00LjUgOS4yQzYuMSA1LjQgMTAgMy4zIDEzLjggNC4xYzMuNi44IDUuOCAzLjcgNi4yIDcuMSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBFNkI4IiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPHBhdGggZD0iTTkuOCA2LjdjMy4yLTEuMiA2LjYuNyA3LjUgMy45LjggMi44LS41IDUuNi0yLjkgNy4xIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMEU2QjgiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48cGF0aCBkPSJNMTQuMiAxMC4xYzEuMyAxLjEgMS42IDMgLjUgNC4zLTEuMSAxLjMtMy4xIDEuNS00LjQuMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBFNkI4IiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B)  
 
 **Development Tools**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE3LjYgMS41IDguMiAxMC4xIDMuOCA2LjggMSA4LjZ2Ni44bDIuOCAxLjggNC40LTMuMyA5LjQgOC42IDUuNC0yLjFWMy42ek0xNyA2LjF2MTEuOEw5LjIgMTJ6TTYuMSA5LjIgMy44IDExbDIuMyAxLjhMOCAxMnoiLz48L3N2Zz4%3D)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIxLjQgMi4xIDEzLjIgNmwtNS4xIDQuMUwzLjggNy4yIDEgOC45djYuMmwyLjggMS43IDQuMy0yLjkgNS4xIDQuMSA4LjIgMy45IDEuNi0uOVYzek0xOC4yIDZ2MTJsLTguNy02ek02LjIgOS42IDMuOCAxMWwyLjQgMS40TDggMTF6Ii8%2BPC9zdmc%2B)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
