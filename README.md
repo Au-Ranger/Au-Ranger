@@ -2,7 +2,7 @@
 <div align="center"><b>WELCOME TO MY PAGE!</b> 
   
 You can call me <b>Mugen, Au-Ranger, or Thesaurus</b>, whichever one you like (●'◡'●)  
-I am an aspiring developer, currently honing my skills in programming
+I am an aspiring developer, currently honing my skills in programming languages, web development, database management, and more!
 </div>  
 
 # My Current Tech Stack:
