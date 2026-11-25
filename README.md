@@ -5,7 +5,7 @@ You can call me <b>Mugen, Au-Ranger, or Thesaurus</b>, whichever one you like (â
 I am an aspiring developer, currently honing my skills in programming languages, web development, database management, and more!
 </div>  
 
-<p>currently in hiatus due to university activities ^_^</p>
+<p><i> P.S : currently in hiatus due to university activities ^_^</i></p>
 
 # My Current Tech Stack:
 
