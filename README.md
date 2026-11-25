@@ -6,6 +6,7 @@ I am an aspiring developer, currently honing my skills in programming languages,
 </div>  
 
 <p>currently in hiatus due to university activities ^_^</p>
+
 # My Current Tech Stack:
 
 **Languages & Web Development**
