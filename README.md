@@ -1,5 +1,5 @@
 # <img width="2400" height="814" alt="Image" src="https://github.com/user-attachments/assets/5173af24-8dd3-4f32-b0cf-4cb77e6e1354" />
-<div align="center"><b>WELCOME TO MY PAGE!</b> 
+<div align="center"><b>WELCOME TO MY PAGE!(❁´◡`❁)</b> 
   
 You can call me <b>Mugen, Au-Ranger, or Thesaurus</b>, whichever one you like (●'◡'●)  
 I am an aspiring developer, currently honing my skills in programming languages, web development, database management, and more!
